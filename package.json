@@ -1,0 +1,8 @@
+{
+  "name": "technova-ai-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Document-aware AI chatbot with a single-page UI and a serverless Claude relay.",
+  "license": "MIT"
+}
